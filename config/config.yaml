@@ -1,0 +1,16 @@
+# config files
+# API配置
+API_KEY: "sk-znipslntpffsfptberupnsltkzzxzvkhylrtunsxdjgzlyos"
+BASE_URL: "https://api.siliconflow.cn/v1"
+
+# 日志配置
+LOG_LEVEL: "INFO"
+LOG_FILE: "app.log"
+
+# 网络配置
+TIMEOUT: 30
+RETRY_COUNT: 3
+
+# 其他配置项
+ENABLE_CACHE: true
+CACHE_TTL: 3600
